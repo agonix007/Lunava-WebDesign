@@ -98,6 +98,8 @@ h1 {
   line-height: 1.1;
   letter-spacing: -1px;
   /* 44 / 52 / 62 */
+
+  /* text-shadow: 0 5px 5px rgba(0, 0, 0, 0.07); */
 }
 
 .header-text {
@@ -154,6 +156,10 @@ img {
 }
 
 /* PRODUCTS */
+.product {
+  box-shadow: 0 20px 30px 0px rgba(0, 0, 0, 0.07);
+}
+
 .product-box {
   padding: 24px;
 }
