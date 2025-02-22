@@ -23,7 +23,7 @@ GREY COLOR: #343a40
 body {
   font-family: "Inter", sans-serif;
   color: #343a40;
-  border-bottom: 8px solid #C93900;
+  border-bottom: 8px solid #c93900;
 }
 
 .container {
@@ -52,7 +52,7 @@ h2 {
 
 .btn:link,
 .btn:visited {
-  background-color: #C93900;
+  background-color: #c93900;
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
@@ -112,6 +112,10 @@ img {
 
 /* FEATURES */
 .features-icon {
+  width: 36px;
+  height: 36px;
+  margin-bottom: 16px;
+  fill: #c93900;
 }
 
 .features-title {
@@ -126,7 +130,7 @@ img {
 
 /* TESTIMONIAL */
 .testimonial-section {
-  background-color: #C93900;
+  background-color: #c93900;
   color: #fff;
   padding: 24px;
 }
@@ -176,6 +180,9 @@ h3 {
 }
 
 .product-icon {
+  width: 24px;
+  height: 24px;
+  fill: #c93900;
 }
 
 .product-price {
